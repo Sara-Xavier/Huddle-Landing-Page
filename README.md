@@ -9,10 +9,6 @@ Users must be able to:
 - Preview the optimal layout for the page depending on your device's screen size
 - See hover states for all interactive elements on the page
 
-### Print Screen
-
-** screenshot of your SARA project.. *****
-
 ### Links
 
 - Solution URL: [Add Solution URL Here](https://your-solution-url.com)
@@ -26,11 +22,8 @@ I learned a lot in this exercise: how to use a div to border icons, how to chang
 - Custom CSS properties
 
 
-### What I learned
-
-
 ## Author
 
 - Github - [Sara Xavier](https://github.com/Sara-Xavier)
-- Frontend Mentor - [@yourusernameSara-Xavier](https://www.frontendmentor.io/profile/Sara-Xavier)"# Huddle-Landing-Page" 
+- Frontend Mentor - [@Sara-Xavier](https://www.frontendmentor.io/profile/Sara-Xavier)"# Huddle-Landing-Page" 
 "# Huddle-Landing-Page" 
