@@ -11,7 +11,7 @@ Users must be able to:
 
 ### Links
 
-- Solution URL: [Add Solution URL Here](https://your-solution-url.com)
+- Solution URL: [Github]([https://your-solution-url.com](https://sara-xavier.github.io/Huddle-Landing-Page/#))
 
 ## My process
 I learned a lot in this exercise: how to use a div to border icons, how to change SVG colors with filter are good examples of simple things I learned.
@@ -24,5 +24,5 @@ I learned a lot in this exercise: how to use a div to border icons, how to chang
 
 ## Author
 
-- Github - [Sara Xavier](https://github.com/Sara-Xavier) - https://sara-xavier.github.io/Huddle-Landing-Page/#
+- Github - [Sara Xavier](https://github.com/Sara-Xavier)  
 - Frontend Mentor - [@Sara-Xavier](https://www.frontendmentor.io/profile/Sara-Xavier)
