@@ -25,5 +25,4 @@ I learned a lot in this exercise: how to use a div to border icons, how to chang
 ## Author
 
 - Github - [Sara Xavier](https://github.com/Sara-Xavier)
-- Frontend Mentor - [@Sara-Xavier](https://www.frontendmentor.io/profile/Sara-Xavier)"# Huddle-Landing-Page" 
-"# Huddle-Landing-Page" 
+- Frontend Mentor - [@Sara-Xavier](https://www.frontendmentor.io/profile/Sara-Xavier)
