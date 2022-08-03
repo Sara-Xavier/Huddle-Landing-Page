@@ -1,0 +1,123 @@
+body{
+   background: #674BB0;
+   background-image: url(bg-desktop.svg);
+   background-repeat: no-repeat;}
+
+.logo{
+    padding-left: 70px;
+    padding-top: 35px;
+    display: inline-block;}
+
+.titulo-principal {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    display: inline-block;
+    padding-left: 100px;
+    width: 490px;
+    font-size:20px ;}
+    
+
+.paragrafo-um{
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    display: inline-block;
+    width: 490px;
+    font-size: 17px;
+    padding-left: 100px;}
+
+.textos{
+    display: inline-block;}
+
+.mockup{
+    padding-left: 70px;
+    padding-top: 70px;}
+
+.container{
+    display: flex;
+    align-items: center;}
+
+.botao{
+    background-color: white;
+    padding: 20px;
+    border-radius: 30px;
+    width: 100px;
+    text-decoration: none;
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 20px;
+    box-shadow: 0px 5px 0px 1px rgba(0, 0, 255, .2);;}
+    
+
+.botao:hover{
+    background-color:  #9E4EC9;
+    transition: background-color 0.3s linear;}
+
+.botao a:hover{
+    color: white;
+    text-decoration: none;}
+
+a{
+    text-decoration: none;}
+
+.borda1{
+    border-color: white;
+    border-radius: 50px;
+    width: 40px;
+    height: 40px;
+    border-style: solid;
+    border-width: 1.5px;
+    margin-left: 1320px;
+    position: absolute;
+    bottom:20px}
+
+.borda2{
+    border-color: white;
+    border-radius: 50px;
+    width: 40px;
+    height: 40px;
+    border-style: solid;
+    border-width: 1.5px;
+    margin-left: 1250px;
+    position: absolute;
+    bottom:20px}
+
+.borda3{
+    border-color: white;
+    border-radius: 50px;
+    width: 40px;
+    height: 40px;
+    border-style: solid;
+    border-width: 1.5px;
+    margin-left: 1180px;
+    position: absolute;
+    bottom:20px}
+
+.borda1 img{
+    margin-left: 4px;
+    margin-top: 4px;
+     }
+
+.borda1:hover{
+    filter: invert(42%) sepia(29%) saturate(2162%) hue-rotate(245deg) brightness(85%) contrast(89%);}
+
+.borda2 img{
+    margin-left: 4px;
+    margin-top: 4px;}
+    
+.borda2:hover{
+        filter: invert(42%) sepia(29%) saturate(2162%) hue-rotate(245deg) brightness(85%) contrast(89%);}
+
+.borda3 img{
+    margin-left: 4px;
+    margin-top: 4px;}
+        
+.borda3:hover{
+    filter: invert(42%) sepia(29%) saturate(2162%) hue-rotate(245deg) brightness(85%) contrast(89%);}
+
+
+footer{
+    display: inline-block;
+    
+}
